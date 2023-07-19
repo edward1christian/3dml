@@ -1,0 +1,27 @@
+# Base
+tqdm
+rich
+ninja
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+opencv-python
+imageio
+imageio-ffmpeg
+
+# Pytorch
+torch
+
+# LangChain
+langchain[all]
+
+# Stable Diffusion
+diffusers
+transformers
+accelerate
+scipy
+safetensors
+
+# NeRF
