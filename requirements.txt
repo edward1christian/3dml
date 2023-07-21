@@ -13,15 +13,23 @@ imageio-ffmpeg
 
 # Pytorch
 torch
+torchvision 
+torchaudio
 
 # LangChain
 langchain[all]
 
-# Stable Diffusion
-diffusers
 transformers
+sentence-transformers
 accelerate
+diffusers
 scipy
 safetensors
 
+# Hugging Face
+huggingface_hub
+
 # NeRF
+
+# Jupyter
+jupyter==1.0.0
