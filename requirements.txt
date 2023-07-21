@@ -33,3 +33,4 @@ huggingface_hub
 
 # Jupyter
 jupyter==1.0.0
+jupyter_collaboration
