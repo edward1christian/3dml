@@ -19,12 +19,16 @@ torchaudio
 # LangChain
 langchain[all]
 
+ctransformers
 transformers
 sentence-transformers
 accelerate
 diffusers
 scipy
 safetensors
+tokenizers 
+bitsandbytes 
+einops
 
 # Hugging Face
 huggingface_hub
